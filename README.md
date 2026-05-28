@@ -16,4 +16,4 @@ The trajectory of this study synthesizes pedagogical introductions with advanced
 ## 🎯 Core Objectives
 * **Formalize Derivations:** Reconstruct complex textbook derivations step-by-step to bridge conceptual gaps.
 * **Mathematical Continuity:** Connect second quantization frameworks across high-energy physics and condensed matter regimes.
-* **Expository Writing:** Author clean, LaTeX-compiled research notes detailing path integrals, Feynman diagrams, and renormalization techniques.
+* **Expository Writing:** Author clean, LaTeX-compiled research notes detailing techniques and subjects.
