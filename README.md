@@ -11,7 +11,9 @@ The trajectory of this study synthesizes pedagogical introductions with advanced
 
 ## 🗂 Repository Structure
 * 📄 **[QFT_Syllabus.pdf](QFT_Syllabus.pdf):** The formalized, week-by-week graduate reading course syllabus detailing the academic trajectory, weekly benchmarks, and learning outcomes.
-* 📂 **Expository Papers / Notes:** (Coming Soon) A series of detailed expository papers designed to synthesize advanced theoretical concepts, demonstrate mathematical continuity, and formalize core derivations.
+* * 📂 Notes (Organized by topic):
+  * *[Chapter 0: Special Relativity] (In Progress)*
+* 📂 Problem Sets: Coming Soon
 
 ## 🎯 Core Objectives
 * **Formalize Derivations:** Reconstruct complex textbook derivations step-by-step to bridge conceptual gaps.
