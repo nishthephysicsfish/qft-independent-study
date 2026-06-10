@@ -14,8 +14,8 @@ The trajectory of this study synthesizes pedagogical introductions with advanced
 * 📄 [QFT_Syllabus.pdf](QFT_Syllabus.pdf): The formalized, week-by-week graduate reading course syllabus, benchmarks, and learning outcomes.
 
 ## Notes (Blundell + Extraneous/Sporadic Reviews)
-* [Special Relativity: A Concise Review](link-to-file)
-* [Blundell 01: Lagrangians](link-to-file)
+* [Special Relativity: A Concise Review](Special_Relativity.pdf)
+* [Blundell 01: Lagrangians](Blundell_01_Lagrangian.pdf)
 
 ## Notes (Abrikosov, Gorkov, & Dyalosjinski)
 
