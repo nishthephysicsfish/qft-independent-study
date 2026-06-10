@@ -11,10 +11,11 @@ The trajectory of this study synthesizes pedagogical introductions with advanced
    
 ## 🗂 Repository Structure
 * 📄 **[QFT_Syllabus.pdf](QFT_Syllabus.pdf):** The formalized, week-by-week graduate reading course syllabus detailing the academic trajectory, weekly benchmarks, and learning outcomes.
-* * 📂 Notes (Organized by topic):
+* * 📂 Notes (Blundell + Extraneous/Sporatic Reviews):
   *  [Special Relativity: A Concise Review](Special_Relativity.pdf)
   
-* 📂 Problem Sets: Coming Soon
+* * 📂 Notes (Abrikosov, Gorkov, & Dyalosjinski)
+
 
 ## 🎯 Core Objectives
 * **Formalize Derivations:** Reconstruct complex textbook derivations step-by-step to bridge conceptual gaps.
