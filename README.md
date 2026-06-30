@@ -13,13 +13,11 @@ The trajectory of this study synthesizes pedagogical introductions with advanced
 
 * 📄 [QFT_Syllabus.pdf](QFT_Syllabus.pdf): The formalized, week-by-week graduate reading course syllabus, benchmarks, and learning outcomes.
 
-## Notes (Blundell + Extraneous/Sporadic Reviews)
+## Notes (+ Extraneous/Sporadic Reviews)
 * [Special Relativity: A Concise Review](Special_Relativity.pdf)
-* [Blundell 01: Lagrangians](Blundell_01_Lagrangian.pdf)
-* [Blundell 02: Simple Harmonic Oscillators](Blundell_02_Oscillator.pdf)
 
 ## Notes (Abrikosov, Gorkov, & Dyalosjinski)
-
+*coming soon
 
 ## 🎯 Core Objectives
 * **Formalize Derivations:** Reconstruct complex textbook derivations step-by-step to bridge conceptual gaps.
